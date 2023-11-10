@@ -1,2 +1,2 @@
 # image-caption-generator
-BTP project for 5th semester
+ML Mini project for 5th semester
